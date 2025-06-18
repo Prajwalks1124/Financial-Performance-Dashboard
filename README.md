@@ -1,9 +1,9 @@
 # Financial Dashbosrd
 
-#1. **Financial-Performance-Dashboard**
+1. **Financial-Performance-Dashboard**
 Interactive Power BI dashboard analyzing financial performance through sales, profit, and units sold by product, region, and time.
 
-## 2. 📌 Key Features
+2. 📌 **Key Features**
 - **KPIs Overview:**
   - Total Sales: ₹11.87 Cr
   - Total Profit: ₹1.68 Cr
@@ -18,22 +18,22 @@ Interactive Power BI dashboard analyzing financial performance through sales, pr
   3. **Units Sold Dashboard**  
      - Units Sold analyzed by Country, Product, Segment, and Discount Band
 
-  4. **Filters**:  
+4. **Filters**:  
   - Year: 2013 & 2014  
-  - Country: Canada, France, Germany, Mexico, USA  
-
-##5. 📈 Insights:
+  - Country: Canada, France, Germany, Mexico, USA
+    
+5. 📈 **Insights:**
 - Products like **Paseo**, **VTT**, and **Velo** drove the highest sales and units sold.
 - **Low and Medium discount bands** show more profitability than No/High discount.
 - Seasonal trends show peaks in **October and December** for both sales and units sold.
 - The **Government** and **Enterprise** segments contributed the most to revenue.
 
-##6. 📂 Tools Used:
+6. 📂 **Tools Used**:
 - Power BI Desktop
 - DAX for measures and calculations
 - Data modeling and slicer integration
 
-##7. 💡 Learning Outcome:
+7. 💡 **Learning Outcome**:
 This project enhanced my ability to clean, model, and visualize business financial data for stakeholder consumption using Power BI.
 
 8. **Screenshort / Demos**
